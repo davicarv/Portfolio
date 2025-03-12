@@ -9,7 +9,6 @@ Este projeto tem como objetivo analisar tendências e padrões nas vendas de car
 - **Python & Pandas** → Manipulação e limpeza dos dados  
 - **Matplotlib & Seaborn** → Visualização gráfica dos resultados  
 - **Jupyter Notebook** → Estruturação e desenvolvimento do projeto  
-- **SQL (se aplicável)** → Consultas para exploração dos dados  
 - **Power BI** → Construção de um dashboard interativo para visualização dos insights  
 
 ## 🎯 Competências Demonstradas  
