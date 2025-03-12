@@ -53,7 +53,7 @@ Este projeto pode servir como referência para análises no setor de logística 
 
 -----------------------------------------
 
-# 3 . Pipeline de Dados - 💰📊 Gastos Pessoais no Telegram
+## 3 . Pipeline de Dados - 💰📊 Gastos Pessoais no Telegram
 
 ## 📌 Sobre o Projeto  
 Este projeto tem como objetivo capturar e analisar automaticamente transações financeiras pessoais usando um **pipeline de dados do Telegram**. Um chatbot armazena as mensagens contendo informações de gastos, processa os dados e os disponibiliza para análise.  
