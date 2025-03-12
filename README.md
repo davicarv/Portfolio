@@ -1,9 +1,9 @@
 # **Portfólio - Davi Carvalho**
-Portfólio de Projetos de Análise de Dados 
+Portfólio de Projetos de Análise de Dados
 
 ## **1. CarSales:**  🚗📊 Análise de Dados de Vendas de Carros
 
-Este projeto tem como objetivo analisar tendências e padrões nas vendas de carros utilizando um conjunto de dados realista extraído do Kaggle. Através da exploração, tratamento e visualização dos dados foram gerados insights sobre comportamento de compra. Como complemento final, foi desenvolvido um dashboard interativo para uma análise 
+Este projeto tem como objetivo analisar tendências e padrões nas vendas de carros utilizando um conjunto de dados realista extraído do Kaggle. Através da exploração, tratamento e visualização dos dados foram gerados insights sobre comportamento de compra. Como complemento final, foi desenvolvido um dashboard interativo para uma análise
 
 ## 📌 Tecnologias Utilizadas  
 - **Python & Pandas** → Manipulação e limpeza dos dados  
@@ -22,7 +22,7 @@ Este projeto tem como objetivo analisar tendências e padrões nas vendas de car
 Na pasta CarSales estão disponíveis o notebook do projeto e o arquivo .pbix do dashboard.
 
 Este projeto pode servir como referência para análises semelhantes no setor automotivo ou em qualquer contexto de vendas e comportamento do consumidor. 🚀  
- 
+
 ![Dashboard](https://github.com/davicarv/Portfolio/blob/main/CarSales/Dashboard%20image.png?raw=true)
 
 
@@ -77,4 +77,9 @@ A solução automatiza o controle financeiro sem a necessidade de inserção man
 
 Este projeto pode servir como referência para automação de monitoramento financeiro e análise de dados transacionais. 🚀  
 
-![Gastos Gerais](https://github.com/davicarv/Portfolio/blob/main/Pipeline%20de%20Dados/Gastos%20Geral.png?raw=true)
+### *Arquitetura do Projeto*
+![Arquitetura](https://github.com/davicarv/Portfolio/blob/main/Pipeline%20de%20Dados/Diagrama%20Pipeline.drawio.png?raw=true)
+
+### *Dashboard*
+| ![Gastos Gerais](https://github.com/davicarv/Portfolio/blob/main/Pipeline%20de%20Dados/Gastos%20Geral.png?raw=true) | ![Gastos Gerais](https://github.com/davicarv/Portfolio/blob/main/Pipeline%20de%20Dados/Gastos%20Mensal.png?raw=true) | 
+| -- | -- |
