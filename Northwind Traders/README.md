@@ -17,4 +17,4 @@ Este projeto tem como objetivo fornecer uma visão unificada dos dados da Northw
 
 Na pasta Northwind Traders estão disponíveis relatório final do projeto apresentando o desenvolvimento completo do projeto, notebook utilizado para análise exploratória, arquivo .pbix da dashboard.
 
-![Dashboard](https://github.com/davicarv/Portfolio/blob/main/CarSales/Dashboard%20image.png?raw=true)
+![Dashboard](https://github.com/davicarv/Portfolio/blob/main/Northwind%20Traders/Dashboards/Geral?raw=true)
