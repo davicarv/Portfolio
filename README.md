@@ -1,7 +1,30 @@
 # **Portfólio - Davi Carvalho**
 Portfólio de Projetos de Análise de Dados
 
-## **1. CarSales:**  🚗📊 Análise de Dados de Vendas de Carros
+## **1. Northwind Traders:**  📊 Análise de dados e obtenção de insights  
+
+Este projeto tem como objetivo fornecer uma visão unificada dos dados da Northwind Traders, permitindo uma análise integrada dos principais indicadores de receita e eficiência operacional. Para isso foi criado um banco de dados, elaboração de dashboards para análises contínuas e otimizadas sobre vendas, clientes, produtos e  logística. Além disso, a análise exploratória dos dados trouxe insigths com recomendações para a empresa, sendo apresentados em um relatória de negócio.
+
+## 📌 Tecnologias Utilizadas  
+- **Excel** → Entendimento da estrutura e tratamento inical dos dados 
+- **PostgreSQL** → Visualização gráfica dos resultados  
+- **Jupyter Notebook** → Estruturação e desenvolvimento do projeto  
+- **Power BI** → Construção de um dashboard interativo para visualização dos insights  
+
+## 🎯 Competências Demonstradas  
+✅ **SQL,PostgreSQL de Banco de Dados** → Criação do banco de dados da empresa a partir de planilhas em Excel e desenvolvimento de views com SQL para análises automatizadas
+✅ **Análise Exploratória de Dados** → exploração e visualização dos dados para identificação de padrões e tendências  
+✅ **Extração de Insights** → Avaliação da sazonalidade das vendas e do impacto de diferentes variáveis  
+✅ **Storytelling com Dados** → Apresentação das etapas do projeto incluindo entendimento do negócio, insights e recomendações para os stakeholders
+✅ **Business Intelligence** → Construção de dashboards no Power BI para análises integradas, interativas e contínuas dos dados
+
+Na pasta Northwind Traders estão disponíveis relatório final do projeto apresentando o desenvolvimento completo do projeto, notebook utilizado para análise exploratória, arquivo .pbix da dashboard.
+
+![Dashboard](https://github.com/davicarv/Portfolio/blob/main/CarSales/Dashboard%20image.png?raw=true)
+
+
+-----------------------------------------
+## **2. CarSales:**  🚗📊 Análise de Dados de Vendas de Carros
 
 Este projeto tem como objetivo analisar tendências e padrões nas vendas de carros utilizando um conjunto de dados realista extraído do Kaggle. Através da exploração, tratamento e visualização dos dados foram gerados insights sobre comportamento de compra. Como complemento final, foi desenvolvido um dashboard interativo para uma análise
 
@@ -28,7 +51,7 @@ Este projeto pode servir como referência para análises semelhantes no setor au
 -----------------------------------------
 
 
-## **2.Loggi** - 📦🚚 Análise Exploratória de Dados de Logística   
+## **3.Loggi** - 📦🚚 Análise Exploratória de Dados de Logística   
 
 ## 📌 Sobre o Projeto  
 Este projeto tem como objetivo realizar uma análise exploratória dos dados da **Loggi**, uma startup brasileira de logística. O conjunto de dados foi obtido do repositório **Loggi Benchmark for Urban Deliveries (BUD)**, que contém informações sobre entregas na cidade do Rio de Janeiro e regiões próximas.  
@@ -53,7 +76,7 @@ Este projeto pode servir como referência para análises no setor de logística 
 
 -----------------------------------------
 
-## 3 . Pipeline de Dados - 💰📊 Gastos Pessoais no Telegram
+## 3.Pipeline de Dados - 💰📊 Gastos Pessoais no Telegram
 
 ## 📌 Sobre o Projeto  
 Este projeto tem como objetivo capturar e analisar automaticamente transações financeiras pessoais usando um **pipeline de dados do Telegram**. Um chatbot armazena as mensagens contendo informações de gastos, processa os dados e os disponibiliza para análise.  
