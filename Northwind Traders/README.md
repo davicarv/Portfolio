@@ -9,11 +9,11 @@ Este projeto tem como objetivo fornecer uma visão unificada dos dados da Northw
 - **Figma** → Desenvolvimento do relatório para apresentar insights de forma clara 
 
 ## 🎯 Competências Demonstradas  
-✅ **Banco de Dados** → Criação do banco de dados da empresa a partir de planilhas em Excel e desenvolvimento de views com SQL para análises automatizadas
-✅ **Análise Exploratória de Dados** → exploração e visualização dos dados para identificação de padrões e tendências  
-✅ **Extração de Insights** → Avaliação da sazonalidade das vendas e do impacto de diferentes variáveis  
-✅ **Storytelling com Dados** → Apresentação das etapas do projeto incluindo entendimento do negócio, insights e recomendações para os stakeholders
-✅ **Business Intelligence** → Construção de dashboards no Power BI para análises integradas, interativas e contínuas dos dados
+✅ **Banco de Dados** → Criação do banco de dados da empresa a partir de planilhas em Excel e desenvolvimento de views com SQL para análises automatizadas.   
+✅ **Análise Exploratória de Dados** → exploração e visualização dos dados para identificação de padrões e tendências.     
+✅ **Extração de Insights** → Avaliação da sazonalidade das vendas e do impacto de diferentes variáveis.     
+✅ **Storytelling com Dados** → Apresentação das etapas do projeto incluindo entendimento do negócio, insights e recomendações para os stakeholders.        
+✅ **Business Intelligence** → Construção de dashboards no Power BI para análises integradas, interativas e contínuas dos dados.    
 
 Na pasta Northwind Traders estão disponíveis relatório final do projeto apresentando o desenvolvimento completo do projeto, notebook utilizado para análise exploratória, arquivo .pbix da dashboard.
 
